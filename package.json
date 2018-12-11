@@ -1,0 +1,28 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bower": "^1.8.4",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "wrench": "^1.5.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerbich/doramanasta.github.io.git"
+  },
+  "author": "Anasta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerbich/doramanasta.github.io/issues"
+  },
+  "homepage": "https://github.com/Gerbich/doramanasta.github.io#readme"
+}
